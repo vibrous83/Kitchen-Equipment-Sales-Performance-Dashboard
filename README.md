@@ -8,3 +8,6 @@ This project aims to transform raw sales transaction data into an interactive Lo
 
 ## Outcome: 
 Successfully built and deployed an interactive Business Intelligence dashboard in Looker Studio to streamline business performance monitoring and track key sales KPIs in real time.
+
+## Link:
+https://datastudio.google.com/reporting/f586113e-7927-40ff-a2c4-2a66a35f538a
